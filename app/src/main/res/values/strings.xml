@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="habit_name">Habit Name:</string>
+    <string name="hint_name">Name</string>
+
+    <string name="habit_duration">Duration in (min):</string>
+    <string name="hint_duration">Duration</string>
+    <string name="habit_frequency">Frequency:</string>
+
+    <string name="frequency_single_time">Single time</string>
+    <string name="frequency_everyday">Everyday</string>
+
+    <string name="action_save">Save</string>
+</resources>
